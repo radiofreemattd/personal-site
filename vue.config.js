@@ -4,7 +4,7 @@ module.exports = {
       registry: undefined,
       awsProfile: 'default',
       region: 'us-east-1',
-      bucket: 'msd-personal-website',
+      bucket: 'matthewdunn.io',
       createBucket: true,
       staticHosting: true,
       staticIndexPage: 'index.html',
